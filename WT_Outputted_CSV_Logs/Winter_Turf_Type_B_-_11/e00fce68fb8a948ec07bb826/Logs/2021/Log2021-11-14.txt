@@ -1,1 +1,0 @@
-DeviceID = e00fce68fb8a948ec07bb826	Firmware Version = 1.5.2	Software Version = 0.0.0
