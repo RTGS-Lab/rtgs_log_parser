@@ -2,3 +2,4 @@
 *.csv
 Minute_Graphs\*.png
 Minute_Graphs/*.png
+*.dat
